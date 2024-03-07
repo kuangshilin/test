@@ -17,7 +17,7 @@
 
 ## 运行截图
 
-![运行截图](online test.png)
+![运行截图]online test.png
 
 ## 如何使用
 
